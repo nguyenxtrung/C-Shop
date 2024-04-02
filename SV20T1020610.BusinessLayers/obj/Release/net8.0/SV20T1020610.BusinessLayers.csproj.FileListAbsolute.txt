@@ -1,0 +1,17 @@
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\bin\Release\net8.0\SV20T1020610.BusinessLayers.deps.json
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\bin\Release\net8.0\SV20T1020610.BusinessLayers.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\bin\Release\net8.0\SV20T1020610.BusinessLayers.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\bin\Release\net8.0\SV20T1020610.DataLayers.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\bin\Release\net8.0\SV20T1020610.DomainModels.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\bin\Release\net8.0\SV20T1020610.DataLayers.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\bin\Release\net8.0\SV20T1020610.DomainModels.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\SV20T1020610.BusinessLayers.csproj.AssemblyReference.cache
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\SV20T1020610.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\SV20T1020610.BusinessLayers.AssemblyInfoInputs.cache
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\SV20T1020610.BusinessLayers.AssemblyInfo.cs
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\SV20T1020610.BusinessLayers.csproj.CoreCompileInputs.cache
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\SV20T102.33A4BE10.Up2Date
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\SV20T1020610.BusinessLayers.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\refint\SV20T1020610.BusinessLayers.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\SV20T1020610.BusinessLayers.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.BusinessLayers\obj\Release\net8.0\ref\SV20T1020610.BusinessLayers.dll

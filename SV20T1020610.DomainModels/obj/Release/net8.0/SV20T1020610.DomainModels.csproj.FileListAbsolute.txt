@@ -1,0 +1,11 @@
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\bin\Release\net8.0\SV20T1020610.DomainModels.deps.json
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\bin\Release\net8.0\SV20T1020610.DomainModels.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\bin\Release\net8.0\SV20T1020610.DomainModels.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\obj\Release\net8.0\SV20T1020610.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\obj\Release\net8.0\SV20T1020610.DomainModels.AssemblyInfoInputs.cache
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\obj\Release\net8.0\SV20T1020610.DomainModels.AssemblyInfo.cs
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\obj\Release\net8.0\SV20T1020610.DomainModels.csproj.CoreCompileInputs.cache
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\obj\Release\net8.0\SV20T1020610.DomainModels.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\obj\Release\net8.0\refint\SV20T1020610.DomainModels.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\obj\Release\net8.0\SV20T1020610.DomainModels.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DomainModels\obj\Release\net8.0\ref\SV20T1020610.DomainModels.dll

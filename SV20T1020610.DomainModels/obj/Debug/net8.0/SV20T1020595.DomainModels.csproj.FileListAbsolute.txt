@@ -1,0 +1,11 @@
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\bin\Debug\net8.0\SV20T1020595.DomainModels.deps.json
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\bin\Debug\net8.0\SV20T1020595.DomainModels.dll
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\bin\Debug\net8.0\SV20T1020595.DomainModels.pdb
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\obj\Debug\net8.0\SV20T1020595.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\obj\Debug\net8.0\SV20T1020595.DomainModels.AssemblyInfoInputs.cache
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\obj\Debug\net8.0\SV20T1020595.DomainModels.AssemblyInfo.cs
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\obj\Debug\net8.0\SV20T1020595.DomainModels.csproj.CoreCompileInputs.cache
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\obj\Debug\net8.0\SV20T1020595.DomainModels.dll
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\obj\Debug\net8.0\refint\SV20T1020595.DomainModels.dll
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\obj\Debug\net8.0\SV20T1020595.DomainModels.pdb
+D:\ASP MVC\Projects\SV20T1020595\SV20T1020595.DomainModels\obj\Debug\net8.0\ref\SV20T1020595.DomainModels.dll

@@ -1,0 +1,15 @@
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\bin\Release\net8.0\SV20T1020610.DataLayers.deps.json
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\bin\Release\net8.0\SV20T1020610.DataLayers.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\bin\Release\net8.0\SV20T1020610.DataLayers.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\bin\Release\net8.0\SV20T1020610.DomainModels.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\bin\Release\net8.0\SV20T1020610.DomainModels.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\SV20T1020610.DataLayers.csproj.AssemblyReference.cache
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\SV20T1020610.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\SV20T1020610.DataLayers.AssemblyInfoInputs.cache
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\SV20T1020610.DataLayers.AssemblyInfo.cs
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\SV20T1020610.DataLayers.csproj.CoreCompileInputs.cache
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\SV20T102.09CE4B67.Up2Date
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\SV20T1020610.DataLayers.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\refint\SV20T1020610.DataLayers.dll
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\SV20T1020610.DataLayers.pdb
+G:\HocTaiTruong\LapTrinhWeb\SV20T1020610\SV20T1020610.DataLayers\obj\Release\net8.0\ref\SV20T1020610.DataLayers.dll

@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|g:\\hoctaitruong\\laptrinhweb\\sv20t1020610\\sv20t1020610.web\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\shared\\_mainheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\shared\\_mainheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\shared\\_controlsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\shared\\_controlsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|g:\\hoctaitruong\\laptrinhweb\\sv20t1020610\\sv20t1020610.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4313D3D9-D678-4E1E-A373-8F126435409F}|SV20T1020610.BusinessLayers\\SV20T1020610.BusinessLayers.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.businesslayers\\sv20t1020610.businesslayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4313D3D9-D678-4E1E-A373-8F126435409F}|SV20T1020610.BusinessLayers\\SV20T1020610.BusinessLayers.csproj|solutionrelative:sv20t1020610.businesslayers\\sv20t1020610.businesslayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958AEB98-C67F-465E-841C-77E5E4D5D56D}|SV20T1020610.DataLayers\\SV20T1020610.DataLayers.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.datalayers\\sqlsever\\employeeaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958AEB98-C67F-465E-841C-77E5E4D5D56D}|SV20T1020610.DataLayers\\SV20T1020610.DataLayers.csproj|solutionrelative:sv20t1020610.datalayers\\sqlsever\\employeeaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:SV20T1020610.Web\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\product\\attribute.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\product\\attribute.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\shared\\_mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\shared\\_mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\shared\\_mainfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\shared\\_mainfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\sv20t1020610.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CCB6DC3-6EBB-4D70-A746-76BCBE64BC26}|SV20T1020610.Web\\SV20T1020610.Web.csproj|solutionrelative:sv20t1020610.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Controllers\\SupplierController.cs",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "SV20T1020610.Web\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:00:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Controllers\\EmployeeController.cs",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SV20T1020610.Web\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAADgv5IAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:47:44.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T00:08:40.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SV20T1020610.BusinessLayers",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.BusinessLayers\\SV20T1020610.BusinessLayers.csproj",
+              "RelativeDocumentMoniker": "SV20T1020610.BusinessLayers\\SV20T1020610.BusinessLayers.csproj",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.BusinessLayers\\SV20T1020610.BusinessLayers.csproj",
+              "RelativeToolTip": "SV20T1020610.BusinessLayers\\SV20T1020610.BusinessLayers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T00:08:32.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeAccountDAL.cs",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.DataLayers\\SQLSever\\EmployeeAccountDAL.cs",
+              "RelativeDocumentMoniker": "SV20T1020610.DataLayers\\SQLSever\\EmployeeAccountDAL.cs",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.DataLayers\\SQLSever\\EmployeeAccountDAL.cs",
+              "RelativeToolTip": "SV20T1020610.DataLayers\\SQLSever\\EmployeeAccountDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:58:53.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:57:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ControlSideBar.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_ControlSideBar.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Shared\\_ControlSideBar.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_ControlSideBar.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Shared\\_ControlSideBar.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:41.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MainHeader.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_MainHeader.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Shared\\_MainHeader.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_MainHeader.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Shared\\_MainHeader.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:40.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SV20T1020610.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:47:43.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T00:49:27.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Attribute.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Product\\Attribute.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Product\\Attribute.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Product\\Attribute.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Product\\Attribute.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:36.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACsAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:39.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:57:34.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:40.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_MainSideBar.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_MainSideBar.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Shared\\_MainSideBar.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_MainSideBar.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Shared\\_MainSideBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:40.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_MainFooter.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_MainFooter.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Shared\\_MainFooter.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_MainFooter.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Shared\\_MainFooter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:40.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Program.cs",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Program.cs",
+              "RelativeToolTip": "SV20T1020610.Web\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADQAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:48:41.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:40.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SV20T1020610.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\HocTaiTruong\\LapTrinhWeb\\SV20T1020610\\SV20T1020610.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SV20T1020610.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T23:48:40.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
